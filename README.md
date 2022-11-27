@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution](https://github.com/explorem/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Netlify Live Site](https://incredible-gecko-888e45.netlify.app/)
 
 ## My process
 
@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Github repository](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [explorem](https://github.com/explorem)
+- Frontend Mentor - [@explorem](https://www.frontendmentor.io/profile/explorem)
+- Twitter - [@ydkedzierska91](https://www.twitter.com/dkedzierska91)
